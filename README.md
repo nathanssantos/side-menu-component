@@ -21,7 +21,7 @@ No plugins, no libraries. Just Vanilla JS.
 * [Download the project](https://github.com/nathanssantos/side-menu-component/archive/master.zip)
 * Open the file `index.html` on a text editor and copy the amount of code between the two "COPY" tags, following the example below, to the place on your project were you do want to implement the component.
 ![](assets/images/side-menu-example.jpg)
-* Make sure that you have the correct links to the side menu CSS and JS assets files on your project
+* Make sure that you have the correct links to the side menu CSS and JS assets files on your project.
 
 
 ## Authors
